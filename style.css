@@ -1,0 +1,23 @@
+h1 {
+    text-align: left;
+}
+p {
+    color:black;
+    text-align: left;
+}
+
+#aboutMe {
+    width: 800px;
+    margin: 0 auto;
+    float: right;
+    text-align: center;
+}
+
+
+#button {
+    width: 800px;
+    margin: 0 auto;
+    float: right;
+    text-align: center;
+    color: hotpink
+}
